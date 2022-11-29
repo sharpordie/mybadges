@@ -10,11 +10,11 @@ Collection of custom badges for some services.
 
 ### App Store
 
-<a href="../.." target="_blank"><img src="https://raw.githubusercontent.com/sharpordie/mybadges/main/src/default.png" width="260"></a>
+<a href="../.." target="_blank"><img src="https://raw.githubusercontent.com/sharpordie/mybadges/main/src/appstore.svg" width="260"></a>
 
 ### Play Store
 
-<a href="../.." target="_blank"><img src="https://raw.githubusercontent.com/sharpordie/mybadges/main/src/default.png" width="260"></a>
+<a href="../.." target="_blank"><img src="https://raw.githubusercontent.com/sharpordie/mybadges/main/src/playstore.svg" width="260"></a>
 
 ### Ko-fi
 
