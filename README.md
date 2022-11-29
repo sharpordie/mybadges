@@ -4,7 +4,7 @@ Collection of custom badges for some services.
 
 <h2><samp>SUPPORTS</samp></h2>
 
-<a href="../.." target="_blank"><img src="https://raw.githubusercontent.com/sharpordie/mybadges/main/src/default.png" width="260"></a>
+<a href="../.." target="_blank"><img src="https://raw.githubusercontent.com/sharpordie/mybadges/main/src/kofi.svg" width="260"></a>
 
 <h2><samp>SHOWCASE</samp></h2>
 
@@ -18,7 +18,7 @@ Collection of custom badges for some services.
 
 ### Ko-fi
 
-<a href="../.." target="_blank"><img src="https://raw.githubusercontent.com/sharpordie/mybadges/main/src/default.png" width="260"></a>
+<a href="../.." target="_blank"><img src="https://raw.githubusercontent.com/sharpordie/mybadges/main/src/kofi.svg" width="260"></a>
 
 ### Patreon
 
