@@ -4,13 +4,13 @@
 <p>Badge collection for some services</p>
 <hr></div>
 
-## <samp>OVERVIEW</samp>
-
-Collection of custom badges for some services.
-
 ## <samp>FUNDINGS</samp>
 
 <a href="../.." target="_blank"><img src="https://raw.githubusercontent.com/sharpordie/mybadges/main/src/kofi.svg"></a>
+
+## <samp>OVERVIEW</samp>
+
+Collection of custom badges for some services.
 
 ## <samp>SHOWCASE</samp>
 
