@@ -2,7 +2,7 @@
 
 Collection of custom badges for some services.
 
-## <samp>SHOWCASE</samp>
+## <samp>PREVIEW</samp>
 
 <a href="../.." target="_blank"><img src="https://raw.githubusercontent.com/sharpordie/mybadges/main/src/appstore.svg"></a>  
 <a href="../.." target="_blank"><img src="https://raw.githubusercontent.com/sharpordie/mybadges/main/src/playstore.svg"></a>  
